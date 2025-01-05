@@ -1,5 +1,11 @@
 ![image](https://github.com/user-attachments/assets/5dc57368-b840-4d96-8597-bdfaaa78f9ec)
 
+<p align='center'>
+<a href="https://leetcode.com/u/chandu20698/"> <img height="50" src="https://github.com/user-attachments/assets/52f6dfb8-223d-477e-965e-fbc6c8b689e5"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chandra-sekhar-reddy-muthumula-125797188/"><img height="50" src="https://github.com/user-attachments/assets/e19577c4-ed2c-4839-aafa-cad7ab6a1b57">
+<a href="https://codepen.io/Chandu-Muthumula/details/BaKxyrG"> <img height="50" src="https://github.com/user-attachments/assets/465908ca-4e90-4f74-858e-e4ff7d4cd6d7"></a>
+</p>
+  
 ---
 
 Hello World!
